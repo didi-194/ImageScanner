@@ -18,7 +18,7 @@ This Python script implements an image scanner using the OpenCV library. It can 
 ### Instructions
 1. Clone this repository to your local machine.
 2. Ensure the necessary prerequisites are installed.
-3. Run the Python script (image_scanner.py).
+3. Run the Python script (main.py).
 4. Follow the on-screen prompts to choose between using a webcam feed or an image file.
 5. If using an image file, place the file in the same directory as the script.
 6. Press the 's' key to save the scanned image.
