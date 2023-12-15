@@ -1,0 +1,20 @@
+Project AI Kelompok 4
+
+Contoh penggunaan dapat dilihat di : https://drive.google.com/file/d/154vh4Y2v1qdd-OxwpHtUVLCDYh899IIs/view?usp=sharing
+
+Cara penggunaan :
+1. install programnya
+2. Taruh gambar yang mau di scan di file yang sama dengan exe nya
+3. jalankan program
+4. bisa menggunakan webcam atau menscan file gambar yang diberikan
+(apabila menggunakan webcam kualitasnya harus bagus)
+5. masukan nama file dengan extensinya (.jpg, .png, .jpeg)
+6. tekan s untuk menyimpan gambar yang sudah di scan
+(gambar akan tersimpan di file scanned)
+
+Syarat gambar :
+1. semua sudut kertas harus terlihat
+2. apabila warna kertas terang maka backgroundnya harus gelap
+3. kertas harus terlihat keseluruhan (tidak boleh ada yang tertutup bayangan)
+
+Contoh gambar yang baik dapat dilihat pada 3.jpg
